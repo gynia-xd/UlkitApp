@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D66D72EA26164AF900AFC221 /* UlkitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UlkitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D66D72EA26164AF900AFC221 /* UIKitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIKitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D66D72ED26164AF900AFC221 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D66D72EF26164AF900AFC221 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D66D72F126164AF900AFC221 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D66D72EB26164AF900AFC221 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D66D72EA26164AF900AFC221 /* UlkitApp.app */,
+				D66D72EA26164AF900AFC221 /* UIKitApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D66D72E926164AF900AFC221 /* UlkitApp */ = {
+		D66D72E926164AF900AFC221 /* UIKitApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D66D72FE26164AFA00AFC221 /* Build configuration list for PBXNativeTarget "UlkitApp" */;
+			buildConfigurationList = D66D72FE26164AFA00AFC221 /* Build configuration list for PBXNativeTarget "UIKitApp" */;
 			buildPhases = (
 				D66D72E626164AF900AFC221 /* Sources */,
 				D66D72E726164AF900AFC221 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = UlkitApp;
+			name = UIKitApp;
 			productName = UlkitApp;
-			productReference = D66D72EA26164AF900AFC221 /* UlkitApp.app */;
+			productReference = D66D72EA26164AF900AFC221 /* UIKitApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D66D72E526164AF900AFC221 /* Build configuration list for PBXProject "UlkitApp" */;
+			buildConfigurationList = D66D72E526164AF900AFC221 /* Build configuration list for PBXProject "UIKitApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D66D72E926164AF900AFC221 /* UlkitApp */,
+				D66D72E926164AF900AFC221 /* UIKitApp */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D66D72E526164AF900AFC221 /* Build configuration list for PBXProject "UlkitApp" */ = {
+		D66D72E526164AF900AFC221 /* Build configuration list for PBXProject "UIKitApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D66D72FC26164AFA00AFC221 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D66D72FE26164AFA00AFC221 /* Build configuration list for PBXNativeTarget "UlkitApp" */ = {
+		D66D72FE26164AFA00AFC221 /* Build configuration list for PBXNativeTarget "UIKitApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D66D72FF26164AFA00AFC221 /* Debug */,
